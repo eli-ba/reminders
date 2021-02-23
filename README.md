@@ -1,1 +1,1 @@
-# Ruby on Rails based Reminders Web App
+# Ruby on Rails based Reminder Web App
